@@ -62,10 +62,15 @@ This is a high-converting, mobile-friendly landing page designed for the BharatL
         <p>We strive to enhance efficiency, transparency, and profitability in logistics by leveraging cutting-edge technology.</p>
     </section>
 
+    <!-- ✅ UPDATED DOWNLOAD BUTTON -->
     <section id="download" class="section download">
         <h2>Get Started with BharatLoads</h2>
         <p>Download the app now and streamline your logistics operations.</p>
-        <a href="#" class="cta-button">Download Now</a>
+        <a href="https://github.com/chbvsnandini/bharatloads/releases/download/v1.0/BharatLoads.apk" 
+           class="cta-button" 
+           download>
+           Download APK
+        </a>
     </section>
 
     <footer class="footer">
